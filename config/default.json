@@ -1,0 +1,8 @@
+{
+    "db": {
+        "name": "cluster0-cpb03.mongodb.net",
+        "parametrs": "test?retryWrites=true",
+        "username": "psycholog",
+        "password": ""
+    }
+}
